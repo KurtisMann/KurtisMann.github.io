@@ -4,13 +4,25 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://KurtisMann.github.io/atom.xml" rel="self"/>
   <link href="http://KurtisMann.github.io/"/>
-  <updated>2014-04-07T15:20:01-04:00</updated>
+  <updated>2014-04-10T15:41:17-04:00</updated>
   <id>http://KurtisMann.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Kurtis Mann]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Roctopress: Configure Your Octopress Blog for R]]></title>
+    <link href="http://KurtisMann.github.io/blog/2014/04/08/myFirst/"/>
+    <updated>2014-04-08T21:00:00-04:00</updated>
+    <id>http://KurtisMann.github.io/blog/2014/04/08/myFirst</id>
+    <content type="html"><![CDATA[
+<p>I have nothing interesting to say.
+$2+2=4$</p>
+
+]]></content>
+  </entry>
   
 </feed>
